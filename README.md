@@ -1,7 +1,8 @@
 # AxiomSon
 
 Turn mathematical equations into music. Define up to 3 concurrent equations using variables `x`, `y`, `z` and evaluate them over time to generate MIDI, sheet music, and audio.
-This was part of an informal CodeJam between me and my one friend, lot of it was rushed.
+
+# This was part of an informal CodeJam between me and my one friend, lot of it was rushed. Please dont get mad at quality.
 
 ## Features
 
@@ -242,3 +243,4 @@ MIT (or your preferred license).
 ---
 
 **Questions?** See `design.md` and `Plan.md` for architecture and roadmap notes.
+
