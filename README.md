@@ -236,11 +236,8 @@ PRs welcome! Areas for contribution:
 - Visualization of equation output over time.
 - VST plugin wrapper.
 
-## License
-
-MIT (or your preferred license).
-
 ---
 
 **Questions?** See `design.md` and `Plan.md` for architecture and roadmap notes.
+
 
