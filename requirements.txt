@@ -1,0 +1,14 @@
+sympy
+numpy
+pyyaml
+pretty_midi
+mido
+pyfluidsynth
+pydub
+music21
+soundfile
+scipy
+pytest
+audioop-lts
+nicegui
+pyinstaller
